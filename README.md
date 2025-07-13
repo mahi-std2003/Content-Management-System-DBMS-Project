@@ -1,15 +1,14 @@
 # Content-Management-System-DBMS-Project
-# 📘 Content Management System 
 
 ---
 
 ## 🔰 Introduction
 
-This is a dynamic **Content Management System ** project built as part of the **Database Systems Lab (CSE 2424)**. It allows users to post, manage, and query content with features like commenting, categorization, and tagging — all backed by a structured MySQL database.
+This is a dynamic **Content Management System** project built as part of the **Database Systems Lab (CSE 2424)**. It allows users to post, manage, and query content with features like commenting, categorization, and tagging — all backed by a structured MySQL database.
 
 ---
 
-## 📚 Project Overview
+##  Project Overview
 
 The Content Management System is a full-stack web application that enables multiple users to interact with content via a web interface. It provides a raw SQL query box to execute and display SQL outputs dynamically, making it an educational and practical tool for learning databases.
 
@@ -27,7 +26,7 @@ The Content Management System is a full-stack web application that enables multi
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **Frontend:** HTML, CSS (Animations)
 - **Backend:** PHP
@@ -37,15 +36,19 @@ The Content Management System is a full-stack web application that enables multi
 
 ---
 
-## 💻 Requirements to Run
+## Requirements to Run
 
-- XAMPP or any PHP server
-- Web browser (Chrome, Firefox, etc.)
-- phpMyAdmin for database import
+To run this project on your local machine, you will need:
+
+- [XAMPP](https://www.apachefriends.org/index.html) or any PHP+MySQL web server
+- A web browser (Chrome/Firefox/Edge)
+- MySQL database setup
+- Basic understanding of SQL queries
 
 ---
 
 ## 📁 File Structure
+
 ├── index.html # Input interface
 ├── execute.php # SQL processing & output
 ├── style.css # UI styles and animations
@@ -53,7 +56,7 @@ The Content Management System is a full-stack web application that enables multi
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - This is a **solo project** developed by **Me**  
 - It serves both academic and learning purposes  
@@ -64,4 +67,5 @@ The Content Management System is a full-stack web application that enables multi
 ---
 
 🧠 Learning Outcome
+
 This project helped me understand database schema design, normalization (up to 3NF), relational query writing (JOIN, GROUP BY, Subquery), as well as frontend-backend integration using PHP and MySQL.
