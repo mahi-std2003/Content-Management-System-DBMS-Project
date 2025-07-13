@@ -46,4 +46,22 @@ The CMS is a full-stack web application that enables multiple users to interact 
 ---
 
 ## 📁 File Structure
+├── index.php # Input interface
+├── execute.php # SQL processing & output
+├── style.css # UI styles and animations
 
+
+---
+
+## 📝 Notes
+
+- This is a **solo project** developed by **Sumaia Tarannoom Mahi**  
+- It serves both academic and learning purposes  
+- Useful for students practicing SQL, normalization, and PHP-MySQL integration  
+- Can be extended into a blog, tutorial site, or admin dashboard system
+
+
+---
+
+🧠 Learning Outcome
+This project helped me understand database schema design, normalization (up to 3NF), relational query writing (JOIN, GROUP BY, Subquery), as well as frontend-backend integration using PHP and MySQL.
